@@ -8,4 +8,13 @@ The App can be deployed at this link,check it out, => https://sheltered-reaches-
 The API can be seen at this Url, => https://sheltered-reaches-07867.herokuapp.com/api/todos  
 
 
+FrontEnd:HTML,CSS,Javascript
+
+BackEnd:Node.js
+
+BackendFramework:Express.js
+
+Database:MongoDB
+
+
 
